@@ -10,5 +10,7 @@ class Dog
     @@all.push(self)
   end
   
-  
+  def self.clear_all
+    @@all.clear 
+  end
 end
