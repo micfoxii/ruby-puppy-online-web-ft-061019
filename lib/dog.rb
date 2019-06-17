@@ -10,4 +10,5 @@ class Dog
     @@all.push(self)
   end
   
+  
 end
